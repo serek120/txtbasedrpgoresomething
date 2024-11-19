@@ -1,0 +1,17 @@
+﻿  funcv.cpp
+D:\txtbasedrpg\txtbased\fchapter\txtbased\funcv.cpp(23,8): warning C4477: „printf”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „std::string”
+  txtbased.cpp
+D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7): warning C4477: „scanf_s”: ciąg formatu „%s” wymaga argumentu typu „char *”, ale argument 1 ze zmienną liczbą argumentów ma typ „std::string *”
+      D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7):
+      ten argument jest używany na potrzeby specyfikatora konwersji
+  
+D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+      D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7):
+      symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+      D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7):
+      brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%s”
+      D:\txtbasedrpg\txtbased\fchapter\txtbased\txtbased.cpp(14,7):
+      ten argument jest używany jako rozmiar bufora
+  
+  Generowanie kodu...
+  txtbased.vcxproj -> D:\txtbasedrpg\txtbased\fchapter\x64\Debug\txtbased.exe
